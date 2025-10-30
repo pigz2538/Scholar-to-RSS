@@ -52,7 +52,7 @@ Set Outlook mail as Forwarded email in Gmail
 ```python
 python scholar_to_rss.py
 ```
-Add certificate using Microsoft Graph on first run：https://microsoft.com/devicelogin，type in your user_code
+Add certificate using [Microsoft Graph](https://microsoft.com/devicelogin) on first run, type in your user_code.
 
 ```python
 python scholar_server.py
