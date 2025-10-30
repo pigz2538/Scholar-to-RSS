@@ -168,7 +168,7 @@ if __name__ == '__main__':
 
     config = configparser.ConfigParser()
     config.read('./config.ini')
-    APP_ID = config.get('Config', 'APP_ID')
+    APP_ID = config.get('Outlook', 'APP_ID')
 
     scholar2rss = Scholar2RSS(APP_ID)
 
